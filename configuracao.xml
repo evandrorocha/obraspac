@@ -3,7 +3,6 @@
 	<Recurso>
 		<Nome>Obras do Pac</Nome>
 		<Url>https://rawgit.com/evandrorocha/obraspac/master/dados_obras.csv</Url>
-		<teste>fsdf</teste>
 		<Formato>CSV</Formato>
 		<Dimensao>Georreferenciamento</Dimensao>
 		<Separador>;</Separador>
