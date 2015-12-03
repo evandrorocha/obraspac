@@ -2,7 +2,7 @@
 <UbsPac>
 	<Recurso>
 		<Nome>Obras do Pac</Nome>
-		<Url>https://rawgit.com/evandrorocha/upapac/master/dados_obras.csv</Url>
+		<Url>https://rawgit.com/evandrorocha/obraspac/master/dados_obras.csv</Url>
 		<Formato>CSV</Formato>
 		<Dimensao>Georreferenciamento</Dimensao>
 		<Separador>;</Separador>
