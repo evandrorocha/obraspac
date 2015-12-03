@@ -24,10 +24,7 @@
 			 <Original>investimento_total</Original>
 			 <Mapeamento>Investimento Total</Mapeamento>
 		  </MapeamentoMetadado>
-		  <MapeamentoMetadado>
-			 <Original>dsc_orgao</Original>
-			 <Mapeamento>Órgão</Mapeamento>
-		  </MapeamentoMetadado>
+		  
 		  <MapeamentoMetadado>
 			 <Original>txt_executores</Original>
 			 <Mapeamento>Executores</Mapeamento>
