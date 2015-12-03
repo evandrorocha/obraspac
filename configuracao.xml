@@ -21,10 +21,6 @@
 			 <Original>idn_tipo</Original>
 			 <Mapeamento>Eixo</Mapeamento>
 		  </MapeamentoMetadado>
-		  <MapeamentoMetadado>
-			 <Original>idn_estagio</Original>
-			 <Mapeamento>Estágio</Mapeamento>
-		  </MapeamentoMetadado>
 		   <MapeamentoMetadado>
 			 <Original>investimento_total</Original>
 			 <Mapeamento>Investimento Total</Mapeamento>
