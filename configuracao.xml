@@ -49,7 +49,14 @@
 			 <Mapeamento>Estado</Mapeamento>
 		  </MapeamentoMetadado>
 	   </ListaMetadados>
-	   
+	<ListaFiltro>
+		<Filtro value="sig_uf">
+		  <ItemFiltro>DF</ItemFiltro>
+		  <ItemFiltro>RJ</ItemFiltro>
+		  <ItemFiltro>SP</ItemFiltro>
+		  <ItemFiltro>TO</ItemFiltro>
+		</Filtro>
+  </ListaFiltro> 
 	<ListaEstados>
 
 		<Estado>
