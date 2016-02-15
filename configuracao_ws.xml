@@ -3,9 +3,9 @@
 	<Recurso>
 		<Nome>Obras do Pac</Nome>
 		<Url>http://pac.digitalgroup.com.br/webservice/retornaListaObras</Url>
-		<Formato>CSV</Formato>
+		<Formato>WEBSERVICE</Formato>
 		<Dimensao>Georreferenciamento</Dimensao>
-		<Separador>;</Separador>
+		<!--<Separador>;</Separador>-->
 		<CamposObrigatorios>
 		  <Latitude>lat</Latitude>
 		  <Longitude>long</Longitude>
