@@ -2,11 +2,11 @@
 <UbsPac>
 	<Recurso>
 		<Nome>Obras do Pac</Nome>
-		<Url>http://pac.digitalgroup.com.br/webservice/retornaListaObras</Url>
+		<Url>https://rawgit.com/evandrorocha/obraspac/master/dados_obras.csv</Url>
 		<Formato>CSV</Formato>
 		<Dimensao>Georreferenciamento</Dimensao>
 		<Separador>;</Separador>
-		<CamposObrigatorios>
+		<CamposObrigatorios> 
 		  <Latitude>lat</Latitude>
 		  <Longitude>long</Longitude>
 		  <Titulo>dsc_titulo</Titulo>
