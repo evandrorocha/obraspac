@@ -46,7 +46,7 @@
 		  </MapeamentoMetadado>
 	   </ListaMetadados>
 	<ListaFiltro>
-		<Filtro value="sig_uf">
+		<Filtro value="obra_uf">
 		  <ItemFiltro>DF</ItemFiltro>
 		  <ItemFiltro>RJ</ItemFiltro>
 		  <ItemFiltro>SP</ItemFiltro>
