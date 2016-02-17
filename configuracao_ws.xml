@@ -14,45 +14,50 @@
 		<ListaMetadados>
 		  <MapeamentoMetadado>
 			 <Original>obra_titulo</Original>
+			 <ChaveFiltro>obra_titulo</ChaveFiltro>
 			 <Mapeamento>Nome</Mapeamento>
 		  </MapeamentoMetadado>
 		   <MapeamentoMetadado>
 			 <Original>obra_subeixo</Original>
-			 <Mapeamento>Subeixo</Mapeamento>
+			 <ChaveFiltro>obra_subeixo_id</ChaveFiltro>
+			 <Mapeamento>Subeixo</Mapeamento>  
+		  </MapeamentoMetadado>
+		   <MapeamentoMetadado>
+			 <Original>obra_tipo</Original>
+			 <ChaveFiltro>obra_tipo_hash</ChaveFiltro>
+			 <Mapeamento>Subeixo</Mapeamento>  
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
 			 <Original>estagio_id</Original>
+			 <ChaveFiltro>obra_estagio_id</ChaveFiltro>
 			 <Mapeamento>Estágio</Mapeamento>
 		  </MapeamentoMetadado>
 		   <MapeamentoMetadado>
 			 <Original>obra_investimento</Original>
+			 <ChaveFiltro>obra_investimento</ChaveFiltro>
 			 <Mapeamento>Investimento Total</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
 			 <Original>obra_responsavel</Original>
+			 <ChaveFiltro>obra_responsavel</ChaveFiltro>
 			 <Mapeamento>Responsável</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
 			 <Original>obra_executor</Original>
+			 <ChaveFiltro>obra_responsavel</ChaveFiltro>
 			 <Mapeamento>Executores</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
 			 <Original>obra_municipios</Original>
+			 <ChaveFiltro>obra_municipios</ChaveFiltro>
 			 <Mapeamento>Municípios</Mapeamento>
 		  </MapeamentoMetadado>
 		   <MapeamentoMetadado>
 			 <Original>obra_uf</Original>
+			 <ChaveFiltro>obra_uf</ChaveFiltro>
 			 <Mapeamento>Estados</Mapeamento>
 		  </MapeamentoMetadado>
-	   </ListaMetadados>
-	<ListaFiltro>
-		<Filtro value="obra_uf">
-		  <ItemFiltro>DF</ItemFiltro>
-		  <ItemFiltro>RJ</ItemFiltro>
-		  <ItemFiltro>SP</ItemFiltro>
-		  <ItemFiltro>TO</ItemFiltro>
-		</Filtro>
-  </ListaFiltro> 
+	</ListaMetadados>
 	<ListaEstados>
 
 		<Estado>
