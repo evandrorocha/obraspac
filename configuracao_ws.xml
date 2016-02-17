@@ -25,7 +25,7 @@
 		   <MapeamentoMetadado>
 			 <Original>obra_tipo</Original>
 			 <ChaveFiltro>obra_tipo_hash</ChaveFiltro>
-			 <Mapeamento>Subeixo</Mapeamento>  
+			 <Mapeamento>Tipo</Mapeamento>  
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
 			 <Original>estagio_id</Original>
