@@ -24,7 +24,7 @@
 		  </MapeamentoMetadado>
 		   <MapeamentoMetadado>
 			 <Original>obra_tipo</Original>
-			 <ChaveFiltro>obra_tipo_hash</ChaveFiltro>
+			 <ChaveFiltro>obra_tipo_id</ChaveFiltro>
 			 <Mapeamento>Tipo</Mapeamento>  
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
