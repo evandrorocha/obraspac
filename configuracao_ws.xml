@@ -19,12 +19,12 @@
 		  </MapeamentoMetadado>
 		   <MapeamentoMetadado>
 			 <Original>obra_subeixo</Original>
-			 <ChaveFiltro>obra_subeixo_id</ChaveFiltro>
+			 <ChaveFiltro>obra_subeixo_hash</ChaveFiltro>
 			 <Mapeamento>Subeixo</Mapeamento>  
 		  </MapeamentoMetadado>
 		   <MapeamentoMetadado>
 			 <Original>obra_tipo</Original>
-			 <ChaveFiltro>obra_tipo_id</ChaveFiltro>
+			 <ChaveFiltro>obra_tipo_hash</ChaveFiltro>
 			 <Mapeamento>Tipo</Mapeamento>  
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
