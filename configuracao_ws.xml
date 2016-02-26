@@ -2,61 +2,62 @@
 <UbsPac>
 	<Recurso>
 		<Nome>Obras do Pac</Nome>
-		<Url>https://rawgit.com/evandrorocha/obraspac/master/dados_obras.csv</Url>
-		<Formato>CSV</Formato>
+		<Url>http://pac.digitalgroup.com.br/webservice/retornaListaObras</Url>
+		<Formato>WEBSERVICE</Formato>
 		<Dimensao>Georreferenciamento</Dimensao>
-		<Separador>;</Separador>
-		<CamposObrigatorios> 
-		  <Latitude>lat</Latitude>
-		  <Longitude>long</Longitude>
-		  <Titulo>dsc_titulo</Titulo>
+		<!--<Separador>;</Separador>-->
+		<CamposObrigatorios>
+		  <Latitude>obra_latitude</Latitude>
+		  <Longitude>obra_longitude</Longitude>
+		  <Titulo>obra_titulo</Titulo>
 	    </CamposObrigatorios>
 		<ListaMetadados>
 		  <MapeamentoMetadado>
-			 <Original>dsc_titulo</Original>
+			 <Original>obra_titulo</Original>
+			 <ChaveFiltro>obra_titulo</ChaveFiltro>
 			 <Mapeamento>Nome</Mapeamento>
 		  </MapeamentoMetadado>
 		   <MapeamentoMetadado>
-			 <Original>idn_tipo</Original>
-			 <Mapeamento>Eixo</Mapeamento>
+			 <Original>obra_subeixo</Original>
+			 <ChaveFiltro>obra_subeixo_hash</ChaveFiltro>
+			 <Mapeamento>Subeixo</Mapeamento>  
+		  </MapeamentoMetadado>
+		   <MapeamentoMetadado>
+			 <Original>obra_tipo</Original>
+			 <ChaveFiltro>obra_tipo_hash</ChaveFiltro>
+			 <Mapeamento>Tipo</Mapeamento>  
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
-			 <Original>idn_estagio_valor</Original>
+			 <Original>estagio_id</Original>
+			 <ChaveFiltro>obra_estagio_id</ChaveFiltro>
 			 <Mapeamento>Estágio</Mapeamento>
 		  </MapeamentoMetadado>
 		   <MapeamentoMetadado>
-			 <Original>investimento_total</Original>
+			 <Original>obra_investimento</Original>
+			 <ChaveFiltro>obra_investimento</ChaveFiltro>
 			 <Mapeamento>Investimento Total</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
-			 <Original>dsc_orgao</Original>
-			 <Mapeamento>Órgão</Mapeamento>
+			 <Original>obra_responsavel</Original>
+			 <ChaveFiltro>obra_responsavel</ChaveFiltro>
+			 <Mapeamento>Responsável</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
-			 <Original>txt_executores</Original>
+			 <Original>obra_executor</Original>
+			 <ChaveFiltro>obra_responsavel</ChaveFiltro>
 			 <Mapeamento>Executores</Mapeamento>
 		  </MapeamentoMetadado>
 		  <MapeamentoMetadado>
-			 <Original>no_bairro</Original>
-			 <Mapeamento>Bairro</Mapeamento>
-		  </MapeamentoMetadado>
-		  <MapeamentoMetadado>
-			 <Original>txt_municipios</Original>
-			 <Mapeamento>Município</Mapeamento>
+			 <Original>obra_municipios</Original>
+			 <ChaveFiltro>obra_municipios</ChaveFiltro>
+			 <Mapeamento>Municípios</Mapeamento>
 		  </MapeamentoMetadado>
 		   <MapeamentoMetadado>
-			 <Original>sig_uf</Original>
-			 <Mapeamento>Estado</Mapeamento>
+			 <Original>obra_uf</Original>
+			 <ChaveFiltro>obra_uf</ChaveFiltro>
+			 <Mapeamento>Estados</Mapeamento>
 		  </MapeamentoMetadado>
-	   </ListaMetadados>
-	<ListaFiltro>
-		<Filtro value="sig_uf">
-		  <ItemFiltro>DF</ItemFiltro>
-		  <ItemFiltro>RJ</ItemFiltro>
-		  <ItemFiltro>SP</ItemFiltro>
-		  <ItemFiltro>TO</ItemFiltro>
-		</Filtro>
-  </ListaFiltro> 
+	</ListaMetadados>
 	<ListaEstados>
 
 		<Estado>
