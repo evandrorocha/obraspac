@@ -1,105 +1,105 @@
-"estados"
-[	
+ï»¿{
+	"estados":[	
            	 	{
            	 			"nome": "Acre (AC)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/16b35b35"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c0977db2"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/33050abb"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/22b78372"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/628"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7eb253b2"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/be4ba156"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d1a1daf4"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012)",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012)",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/67704c2a"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/92851f8a"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7a0066fc"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e931563e"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6b8e86a7"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/0860d04d"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/88947fe5"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/38f6935e"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ebee4fe0"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2a833333"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9a8df432"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3c4df713"
            	 				}
@@ -109,207 +109,207 @@
            	 			"nome": "Alagoas (AL)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9f101c7e"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6172f2af"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/51e361e8"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a318e117"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bacef5a7"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/68fc2166"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1b2f128d"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9abc2ae9"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/01e1004c"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/010a0eff"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011)",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011)",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/05e7a3f5"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/00e88a9f"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/f4032edd"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a775a8e1"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/310f143f"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/0cb6f2f6"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/eac7edf0"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/fa2d9244"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3b07953f"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/36d6cb23"
            	 				}
            	 			]
            	 		},
            	 		{
-           	 			"nome": "Amapá (AP)",
+           	 			"nome": "AmapÃ¡ (AP)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e7c2791a"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/f53a0a94"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e1e846bc"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1f63cc8e"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/065b6f09"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7aa6ba53"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/776dbedc"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9c6301ef"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/183d5820"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7bb7b495"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b9efdb47"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ea32e8fd"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bc3b9573"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/11d42736"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8b70ed3d"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6f7091ca"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2cbd458d"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9902288d"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/217db24d"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/64c3d80f"
            	 				}
@@ -319,207 +319,207 @@
            	 			"nome": "Bahia (BA)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a2bfe90c"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/929610c1"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/18a21d76"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6dae375e"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/817eab28"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/05201315"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/87ddbca8"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9e3de6f1"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a9dd68bc"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/0abe0c1a"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bf09b515"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/05bf32c5"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/47538391"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ac5f1030"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/fdcc0314"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/dd3e1ec0"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/54a23cc7"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3ac00af1"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/adf25357"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e96aacdd"
            	 				}
            	 			]
            	 		},
            	 		{
-           	 			"nome": "Ceará (CE)",
+           	 			"nome": "CearÃ¡ (CE)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1ab3c798"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/edeeabed"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/461838af"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3f76bd63"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d824e11d"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2de232e9"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/84122d99"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6ba44bf7"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/54af4388"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ccc522d1"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4eb56b15"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1c4bc8b"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/5fc611db"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/5941778c"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/16b161db"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/63864678"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/5e31a4a1"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/15527895"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/5709633f"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7c1986d5"
            	 				}
@@ -529,412 +529,412 @@
            	 			"nome": "Distrito Federal (DF)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/00afd282"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/744a7561"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4622edb1"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/24b86ef5"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8b74208f"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/fcdc952b"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2)",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2)",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d5626673"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012)",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012)",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8f606dc4"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b0e2268f"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2e048312"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/f85dc9e9"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8c115e0e"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ef28f828"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d6b64efe"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/5b30b310"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a2c51b74"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/073d5139"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ab5839b3"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b35ef81b"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/049b8e99"
            	 				}
            	 			]
            	 		},
            	 		{
-           	 			"nome": "Espírito Santo (ES)",
+           	 			"nome": "EspÃ­rito Santo (ES)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/237857d6"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8cdd7a1e"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8cdd7a1e"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7fbe8932"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e745825b"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bd5df4ff"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/69cff9c0"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bcb00073"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/40cfb7b8"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/540a761d"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9642b627"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b09fc005"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8aaa64bd"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/05941694"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a775e9f7"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/0199367f"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/af408d76"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/aaa5380d"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b8262cae"
            	 				}
            	 			]
            	 		},
            	 		{
-           	 			"nome": "Goiás (GO)",
+           	 			"nome": "GoiÃ¡s (GO)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/fa7a62ae"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bdebe6e5"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b8e60a44"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ff8c805b"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bd7b40d0"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4503f22c"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3cbd54a4"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/16f66e27"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/45757ab7"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/65fff8fd"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/57218ae9"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ff29ab10"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a2d0a690"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6888ebe5"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/fb164514"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/cd3ce250"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b846f48c"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a7334bca"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/07264ea0"
            	 				}
            	 			]
            	 		},
            	 		{
-           	 			"nome": "Maranhão",
+           	 			"nome": "MaranhÃ£o",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/85109597"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3f43b11a"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/52763508"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3291ec07"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e157c776"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/be1e2a73"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2df9b0ec"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a7970472"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/203e29d2"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7c696cf4"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1637c612"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e17ed8ea"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/62b86ba9"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d8a50bb3"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a78925d6"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/46e71590"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/326422d4"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/f8283909"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/faee0983"
            	 				}
@@ -944,102 +944,102 @@
            	 			"nome": "Mato Grosso (MT)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bd39e503"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c74ea2c8"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2995a4de"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d772c218"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1a78ef6c"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/be107475"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3c575b69"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9ef0e262"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c6f7c7d2"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/00433207"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/33ba4b44"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4d2c2349"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9956e5d0"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1f1b956f"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/85a11a87"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/0fa02556"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b182bd9a"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ae5cc280"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/31329175"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/47977084"
            	 				}
@@ -1049,102 +1049,102 @@
            	 			"nome": "Mato Grosso do Sul (MS)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/277bdb45"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/060922b5"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/377bcb88"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2934a413"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/21cb060f"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1e4458ff"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/eb0d8e86"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4a6d723a"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d082a89d"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3f64a569"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6fdc4e7b"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/53e8ffd5"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/5b72f6cc"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/07a844c6"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4f4b4ea6"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/24ed1bcb"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/cb3c3cd8"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/f0cf51cc"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/fb904294"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2835ea5c"
            	 				}
@@ -1154,417 +1154,417 @@
            	 			"nome": "Minas Gerais (MG)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/44a6ea01"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4d11ca31"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/cb04212b"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/478df987"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a3215b4d"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/38914aa5"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ff"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/0a2eed6d"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/aa098b44"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9d569267"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e66ab9d0"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/50f3be46"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/83bd5766"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1e7895e6"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/af7b3568"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/61a3c92c"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/90adf79c"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/65092e60"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c1dc6479"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/cec1b3bd"
            	 				}
            	 			]
            	 		},
            	 		{
-           	 			"nome": "Pará (PA)",
+           	 			"nome": "ParÃ¡ (PA)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/72828182"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/de4f2c4a"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b235d2df"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9140ca5d"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a1efa523"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/47d3d8c4"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/f7f0d0c2"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8d6c09ee"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1107fc34"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/293963f8"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1011b99f"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e6a05e9a"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/49bfe6a9"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8c52df9b"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e81a1bff"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9b15985d"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b988ff0f"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/84619864"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/598f6beb"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2afdad91"
            	 				}
            	 			]
            	 		},
            	 		{
-           	 			"nome": "Paraíba (PB)",
+           	 			"nome": "ParaÃ­ba (PB)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4eac2179"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4e07e42c"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/668c57f7"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/cdf8f5e7"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/0dd69afd"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1d6d4d7b"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1baf17f8"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1cd198a7"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a8cbaf8d"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1e4dce57"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/46456d06"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ca75639b"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/86ce3d7f"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/f8d333bc"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a870ba63"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/317c910c"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8a61eab0"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c2cd1778"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7c69e83f"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/0ea0988a"
            	 				}
            	 			]
            	 		},
            	 		{
-           	 			"nome": "Paraná (PR)",
+           	 			"nome": "ParanÃ¡ (PR)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9f973d12"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e979768a"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c5a856fa"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a1f61f84"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9f61a71d"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/f1443453"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bebb8d68"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/29bd766f"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/26e2b8b4"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6eadf2e2"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2c1d8d3d"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9e1ae6a5"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e5b0b072"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/369a37ac"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/17b69955"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4470c282"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1e945726"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2e5423c1"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/471fd500"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/f62e4551"
            	 				}
@@ -1574,207 +1574,207 @@
            	 			"nome": "Pernambuco (PE)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/5169e6d8"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1a3910c7"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2bbf6889"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3e7f053e"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1b3d31c3"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/74c366ae"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/aafabd88"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/fafdfcd3"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/99a8afe3"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a4ad472d"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/323def70"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8a52d3bd"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e32a3ece"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/cd4dd648"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b9038751"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2212b19d"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/327ada1b"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c495140e"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/17b0afec"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/42e01468"
            	 				}
            	 			]
            	 		},
            	 		{
-           	 			"nome": "Piauí (PI)",
+           	 			"nome": "PiauÃ­ (PI)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2dfa3d08"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/68d27add"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/78f88624"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1c221ed2"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d65d2ee8"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/1f238996"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c2541bff"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c644fb19"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7f595dce"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/518e5fca"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/946704dd"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b9bd34b8"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/53c686d0"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/49d425a0"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/cb3c7fe0"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/cf92b2f9"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c9c8e020"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2d745b4d"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/fc2071b3"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4978aede"
            	 				}
@@ -1784,102 +1784,102 @@
            	 			"nome": "Rio de Janeiro (RJ)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d8cfdd0a"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c887dfa1"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/dc47bacd"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/83589b28"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/82d361cc"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8cc9a4a6"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/501b3fc0"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8bdf7d6f"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7157c141"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4ce32ee8"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a52d50cc"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e2861080"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/206039af"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/fbdf4244"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/389aa3e4"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7df2c662"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/fc988561"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/130f0956"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/87"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4b83052d"
            	 				}
@@ -1889,102 +1889,102 @@
            	 			"nome": "Rio Grande do Norte (RN)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/504b42bb"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b5394588"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/20ba852e"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a0ffd0b9"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ebbbe291"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c8f83cd2"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/cd1e40b6"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/827b6da0"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/5f95e474"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/30899f6c"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7885734f"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c061ff8a"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8c22d6c7"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b22fd733"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bd2a44a7"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/f26ba357"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b3a98034"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/61a3c92z"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/f8e7fc8b"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/913799f4"
            	 				}
@@ -1994,207 +1994,207 @@
            	 			"nome": "Rio Grande do Sul (RS)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/62f11fcf"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/0b62fbb3"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/44151550"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9648170a"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/0ddf2122"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6d2cb7ec"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6597f117"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9e7e0212"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4df44414"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7fdee5f6"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bdcbabc9"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/05ebbb96"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/aabc8f11"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/de31fefb"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/26464738"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/5ad94785"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/481b004a"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/fc7222e6"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/39be1c19"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/58226edf"
            	 				}
            	 			]
            	 		},
            	 		{
-           	 			"nome": "Rondônia (RO)",
+           	 			"nome": "RondÃ´nia (RO)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7249723e"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9b703e88"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d9de1694"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/42f0c7f5"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bce971a2"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/01324e2a"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/afe03757"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a14b9b3c"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/30f54516"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2aca0817"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bc1efee5"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/5a17f266"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ee3d6495"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a1cf27e0"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6db0276e"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a78015b4"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/4c4981e3"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d7ed8f93"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/df15b06b"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/48862952"
            	 				}
@@ -2204,102 +2204,102 @@
            	 			"nome": "Roraima (RR)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/96a6c79d"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/03481422"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/56ab7947"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ebed442d"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/09ae83dd"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/55afc155"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bc0bf380"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/bf75f3c0"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/cc7a5cf8"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b21c4f87"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3c4a2918"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/37325a77"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/179d9a5c"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/cd8fafb3"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/83d8b827"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/156ade74"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/fa80ca67"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6eb7b8d0"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7587113b"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b40dcfb1"
            	 				}
@@ -2309,207 +2309,207 @@
            	 			"nome": "Santa Catarina (SC)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/0d8a5cce"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/cbb9a055"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d1b27ca1"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3e3336bc"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/322c695e"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2ab729d6"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/12ca9d8c"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/525e7a7c"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/56ff9658"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a4478583"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/13e60eee"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/69e3dfbd"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d10"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/cc9bdeb9"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b8b94dba"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a8b0d860"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2e662291"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/02bf9345"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/659a5026"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ff2d8fc6"
            	 				}
            	 			]
            	 		},
            	 		{
-           	 			"nome": "São Paulo (SP)",
+           	 			"nome": "SÃ£o Paulo (SP)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/21465c39"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/9f69df64"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/43ae8fbf"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/5366730f"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3dc462d7"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/de7dd111"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3b993d10"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/6f855fc4"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/386f0a78"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/386f0a78"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8f5658fc"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/168da639"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d80b0848"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a9e05873"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a1f74ef9"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/0ed0dc10"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/997a2e46"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/53dbd0fe"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c6e1f1d8"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a0859a00"
            	 				}
@@ -2519,102 +2519,102 @@
            	 			"nome": "Sergipe (SE)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8f335b0d"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e877d0e7"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/5a39f3d9"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d7800e3c"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2c603e82"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/48ff9a6c"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/18bdf8ae"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/75cb3fc6"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/e164e195"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/64a496c4"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/c1ff0cd0"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8afc1c8e"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8f155c13"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/054fcc57"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/f23afbd2"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/987a3c39"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/ed6e8d20"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/df5ea5e0"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b1ea1649"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/7d5f1a57"
            	 				}
@@ -2624,106 +2624,107 @@
            	 			"nome": "Tocantins (TO)",
            	 			"cartilhas":[
            	 				{
-           	 					"nome": "1º Balanço do PAC 2015 / Janeiro - Junho 2015",
+           	 					"nome": "1Âº BalanÃ§o do PAC 2015 / Janeiro - Junho 2015",
            	 					"data": "17/11/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2418e9e1"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC 2",
+           	 					"nome": "11Âº BalanÃ§o PAC 2",
            	 					"data": "01/04/2015",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/d3afcd40"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC 2",
+           	 					"nome": "10Âº BalanÃ§o PAC 2",
            	 					"data": "30/10/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/43f47efe"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC 2",
+           	 					"nome": "9Âº BalanÃ§o PAC 2",
            	 					"data": "15/04/2014",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b71d0452"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC 2/Maio-Agosto 2013",
+           	 					"nome": "8Âº BalanÃ§o PAC 2/Maio-Agosto 2013",
            	 					"data": "13/12/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/72b69518"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC 2/Janeiro-Abril 2013",
+           	 					"nome": "7Âº BalanÃ§o PAC 2/Janeiro-Abril 2013",
            	 					"data": "13/08/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/8f431a0c"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC 2/outubro-dezembro 2012 - ano 2",
+           	 					"nome": "6Âº BalanÃ§o PAC 2/outubro-dezembro 2012 - ano 2",
            	 					"data": "12/04/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/2c7c17a3"
            	 				},
            	 				{
-           	 					"nome": "5º Balanço PAC 2 - maio/setembro de 2012",
+           	 					"nome": "5Âº BalanÃ§o PAC 2 - maio/setembro de 2012",
            	 					"data": "15/01/2013",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/0c0d16fd"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC 2 - janeiro/abril de 2012",
+           	 					"nome": "4Âº BalanÃ§o PAC 2 - janeiro/abril de 2012",
            	 					"data": "25/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/11903d7f"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC 2 - Ano 1",
+           	 					"nome": "3Âº BalanÃ§o PAC 2 - Ano 1",
            	 					"data": "03/05/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/a2ea1fc0"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC 2 - julho/setembro 2011",
+           	 					"nome": "2Âº BalanÃ§o PAC 2 - julho/setembro 2011",
            	 					"data": "17/01/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/012722e3"
            	 				},
            	 				{
-           	 					"nome": "11º Balanço PAC - 4 anos",
+           	 					"nome": "11Âº BalanÃ§o PAC - 4 anos",
            	 					"data": "06/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3249f4dd"
            	 				},
            	 				{
-           	 					"nome": "10º Balanço PAC - Janeiro a Abril de 2010",
+           	 					"nome": "10Âº BalanÃ§o PAC - Janeiro a Abril de 2010",
            	 					"data": "05/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/3ea862db"
            	 				},
            	 				{
-           	 					"nome": "9º Balanço PAC - 3 anos",
+           	 					"nome": "9Âº BalanÃ§o PAC - 3 anos",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/83d04420"
            	 				},
            	 				{
-           	 					"nome": "8º Balanço PAC - Maio/Setembro de 2009",
+           	 					"nome": "8Âº BalanÃ§o PAC - Maio/Setembro de 2009",
            	 					"data": "04/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/f62b4c40"
            	 				},
            	 				{
-           	 					"nome": "7º Balanço PAC - Janeiro/Julho de 2009",
+           	 					"nome": "7Âº BalanÃ§o PAC - Janeiro/Julho de 2009",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b31104ef"
            	 				},
            	 				{
-           	 					"nome": "6º Balanço PAC - 2 anos",
+           	 					"nome": "6Âº BalanÃ§o PAC - 2 anos",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/114a40e8"
            	 				},
            	 				{
-           	 					"nome": "4º Balanço PAC - Julho de 2008",
+           	 					"nome": "4Âº BalanÃ§o PAC - Julho de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/867854fe"
            	 				},
            	 				{
-           	 					"nome": "3º Balanço PAC - Março de 2008",
+           	 					"nome": "3Âº BalanÃ§o PAC - MarÃ§o de 2008",
            	 					"data": "03/09/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/61496089"
            	 				},
            	 				{
-           	 					"nome": "2º Balanço PAC - Janeiro de 2008",
+           	 					"nome": "2Âº BalanÃ§o PAC - Janeiro de 2008",
            	 					"data": "31/08/2012",
            	 					"arquivo": "http://www.pac.gov.br/sobre-o-pac/publicacoesregionais/v/b014a6ee"
            	 				}
            	 			]
        	}
            	
-]
+ ]
+} 
